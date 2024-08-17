@@ -96,8 +96,12 @@ git remote add origin https://github.com/Coelho7kook/dlc-elder-ring.git
 
 <div class="slide">
     <h2>Imagens Relacionadas</h2>
-    <img src="imagem1.png" alt="Imagem 1">
-    <img src="imagem2.png" alt="Imagem 2">
+    <img src="assets/imagem1.png" alt="Imagem 1">
+<img src="assets/imagem2.png" alt="Imagem 2">
+<audio autoplay loop>
+    <source src="assets/musica.mp4" type="audio/mp4">
+    Seu navegador não suporta o elemento de áudio.
+</audio>
 </div>
 
 </body>
