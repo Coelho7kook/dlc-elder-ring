@@ -94,11 +94,6 @@ git remote add origin https://github.com/Coelho7kook/dlc-elder-ring.git
     <p>O filme recebeu aclamação crítica por sua estética única e narrativa comovente, explorando temas como amor, morte e destino. "A Noiva Cadáver" também foi indicado ao Oscar de Melhor Filme de Animação.</p>
 </div>
 
-<div class="slide">
-    <h2>Imagens Relacionadas</h2>
-    <img src="imagem1.png" alt="Imagem 1">
-    <img src="imagem2.png" alt="Imagem 2">
-</div>
 
 </body>
 </html>
